@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -Wall -std=c++11
+CXXFLAGS = -Wall -std=c++11 -Wall -O2 -fopenmp 
 LIBS = -I/usr/include/eigen3
 
 all: main test_mkp test_utils
