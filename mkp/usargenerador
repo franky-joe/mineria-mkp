@@ -1,0 +1,2 @@
+./main -i datos/solucionadosPequenos/mas20menos55/hp1.dat -o xxx.csv -t 20
+
